@@ -1,0 +1,17 @@
+D:\MyCode\My\VSCODE\MyProject\bin\Debug\netcoreapp3.0\MyProject.exe
+D:\MyCode\My\VSCODE\MyProject\bin\Debug\netcoreapp3.0\MyProject.deps.json
+D:\MyCode\My\VSCODE\MyProject\bin\Debug\netcoreapp3.0\MyProject.runtimeconfig.json
+D:\MyCode\My\VSCODE\MyProject\bin\Debug\netcoreapp3.0\MyProject.runtimeconfig.dev.json
+D:\MyCode\My\VSCODE\MyProject\bin\Debug\netcoreapp3.0\MyProject.dll
+D:\MyCode\My\VSCODE\MyProject\bin\Debug\netcoreapp3.0\MyProject.pdb
+D:\MyCode\My\VSCODE\MyProject\obj\Debug\netcoreapp3.0\MyProject.csprojAssemblyReference.cache
+D:\MyCode\My\VSCODE\MyProject\obj\Debug\netcoreapp3.0\MyProject.AssemblyInfoInputs.cache
+D:\MyCode\My\VSCODE\MyProject\obj\Debug\netcoreapp3.0\MyProject.AssemblyInfo.cs
+D:\MyCode\My\VSCODE\MyProject\obj\Debug\netcoreapp3.0\MyProject.dll
+D:\MyCode\My\VSCODE\MyProject\obj\Debug\netcoreapp3.0\MyProject.pdb
+D:\MyCode\My\VSCODE\MyProject\bin\Debug\netcoreapp3.0\DnsClient.dll
+D:\MyCode\My\VSCODE\MyProject\bin\Debug\netcoreapp3.0\MongoDB.Bson.dll
+D:\MyCode\My\VSCODE\MyProject\bin\Debug\netcoreapp3.0\MongoDB.Driver.dll
+D:\MyCode\My\VSCODE\MyProject\bin\Debug\netcoreapp3.0\MongoDB.Driver.Core.dll
+D:\MyCode\My\VSCODE\MyProject\bin\Debug\netcoreapp3.0\SharpCompress.dll
+D:\MyCode\My\VSCODE\MyProject\obj\Debug\netcoreapp3.0\MyProject.csproj.CopyComplete
